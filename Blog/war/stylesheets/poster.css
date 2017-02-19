@@ -1,0 +1,16 @@
+
+body {
+	color: #c0c0c0;
+	text-align: center;
+	font-family: Verdana, Helvetica, sans-serif;
+	background-image: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+	background-color: #0f2842;
+}
+h1 {
+	color: white;
+	text-align: center;
+	color: white;
+    font-family: courier;
+    font-size: 200%;
+	background-color: #0f2842;
+}
